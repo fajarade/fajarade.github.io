@@ -1,5 +1,6 @@
 Calculator 
-Tugas Interaksi Manusia Komputer
+Tugas Interaksi Manusia Komputer 2016
+Teknik Informatika
 Institut Teknologi Sepuluh Nopember
 Surabaya
 
